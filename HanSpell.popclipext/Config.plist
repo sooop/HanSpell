@@ -13,6 +13,8 @@
 	</array>
 	<key>Extension Identifier</key>
 	<string>com.soooprmx.popclip.extension</string>
+	<key>Regular Expression</key>
+	<string>(?s)^.*[가-힣].*$</string>
 	<key>Extension Name</key>
 	<string>맞춤법 검사기</string>
 </dict>
